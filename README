@@ -9,3 +9,9 @@ provide a movie apifor reactjs app
 4. `git add .`
 5. `git commit -m "your msg"`
 6. `git push -u origin main`
+
+
+
+
+
+mongodb+srv://ajithsimson:<password>@cluster0.mdhdprf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
