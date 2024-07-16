@@ -6,7 +6,7 @@ export const movieIndex = (req,res)=>{
         // res.send("create a movie");
         console.log(req.body);
 
-        return res.json(req.body)
+        return res.json(req.body);
         
     
     };
